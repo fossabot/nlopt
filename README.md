@@ -1,6 +1,7 @@
 [![Latest Docs](https://readthedocs.org/projects/nlopt/badge/?version=latest)](http://nlopt.readthedocs.io/en/latest/)
 [![Build Status](https://travis-ci.org/stevengj/nlopt.svg?branch=master)](https://travis-ci.org/stevengj/nlopt)
 [![Build Status](https://ci.appveyor.com/api/projects/status/github/stevengj/nlopt?branch=master&svg=true)](https://ci.appveyor.com/project/StevenGJohnson/nlopt)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnigelsimpson%2Fnlopt.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnigelsimpson%2Fnlopt?ref=badge_shield)
 
 NLopt is a library for nonlinear local and global optimization, for
 functions with and without gradient information.  It is designed as
@@ -40,3 +41,7 @@ be added in the future.
 [1]: https://cmake.org/
 [2]: http://www.swig.org/
 [3]: https://en.wikipedia.org/wiki/Man_page
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnigelsimpson%2Fnlopt.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnigelsimpson%2Fnlopt?ref=badge_large)
